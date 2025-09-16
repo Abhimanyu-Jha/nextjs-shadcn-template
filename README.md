@@ -24,7 +24,7 @@ A modern Next.js template with shadcn/ui design system and built-in dark/light m
 ### Manual Setup
 
 ```bash
-npx degit your-username/nextjs-shadcn-template my-new-project
+npx degit abhimanyu-jha/nextjs-shadcn-template my-new-project
 cd my-new-project
 npm install
 npm run dev
